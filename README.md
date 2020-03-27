@@ -1,0 +1,2 @@
+# floater
+Floating Window
